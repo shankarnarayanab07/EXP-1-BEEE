@@ -63,13 +63,13 @@ a.   KVL:
 
 
 
-![1](https://github.com/user-attachments/assets/f6e84b3f-22ce-4329-923c-71a1e5eb95ac)
 
 
 
 
 
-![1 1](https://github.com/user-attachments/assets/9edb5421-c3d1-4596-8ba6-e70484ec5773)
+
+
 
 
  
@@ -81,14 +81,6 @@ b.  KCL:
 
 
 
-![3 1](https://github.com/user-attachments/assets/968ae734-5b53-412f-9653-f5f0bf319cf2)
-
-
-
-
-
-
-![5](https://github.com/user-attachments/assets/cbe2b37d-6bd5-407d-a0e0-75924eb2373e)
 
 
 
@@ -102,7 +94,6 @@ a.   KVL:
 
 
 
-![2](https://github.com/user-attachments/assets/ea3e837e-2c66-4f2d-bf3c-f90602cfc969)
 
  
 
@@ -113,7 +104,6 @@ b.  KCL:
 
 
 
-![4](https://github.com/user-attachments/assets/aca6cbe4-a0f8-45d9-b987-f8ea87a18a79)
 
 
 
